@@ -9,6 +9,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Choi9912&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+# ADDITIONAL SKILLS
+- <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white"> 
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"> <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=Folium&logoColor=white"> <img src="https://img.shields.io/badge/GeoPandas-139C5?style=for-the-badge&logo=GeoPandas&logoColor=white">
+
+</summary>
+
 <!--
 
 Here are some ideas to get you started:
